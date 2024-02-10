@@ -1,0 +1,4 @@
+C:\Users\Tal\repos\Freelance\HotelFrontend\HotelFrontend\obj\Debug\hotelfrontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\Tal\repos\Freelance\HotelFrontend\HotelFrontend\obj\Debug\hotelfrontend.esproj.CoreCompileInputs.cache
+C:\Users\manas\Downloads\HotelsApp (1)\HotelsApp\HotelFrontend\HotelFrontend\obj\Debug\hotelfrontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\manas\Downloads\HotelsApp (1)\HotelsApp\HotelFrontend\HotelFrontend\obj\Debug\hotelfrontend.esproj.CoreCompileInputs.cache
